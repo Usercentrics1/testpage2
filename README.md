@@ -1,1 +1,1 @@
-# https://usercentrics1.github.io/testpage2/
+# https://testpage2/
